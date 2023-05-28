@@ -79,3 +79,12 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+.socialButtons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+}
+ .socialButtons button{
+    margin-right: 20px;
+ }
