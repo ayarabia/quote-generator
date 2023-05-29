@@ -1,6 +1,6 @@
 {
-  "name": "myapp",
-  "homepage": "https://myusername.github.io/myapp",
+  "name": "quote-generator",
+  "homepage": "https://myusername.github.io/quote-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
